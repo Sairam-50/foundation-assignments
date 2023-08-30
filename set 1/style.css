@@ -1,0 +1,16 @@
+body{
+    background-color: burlywood;
+}
+
+p{
+    border: 2px solid black;
+}
+
+.highlight{
+    background-color: black;
+    color: aquamarine;
+}
+
+#specialText{
+    color: rgb(208, 16, 16);
+}
